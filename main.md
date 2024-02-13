@@ -20,14 +20,20 @@
 
 ## Создание 1-го кубика
 ### Результат
-Настройки кубика 
+## Настройки кубика 
+
+![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-2/pic/Screenshot_3.png)
+
+## Результат настройки 
 
 ![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-2/pic/Screenshot_4.png)
-![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-2/pic/Screenshot_3.png)
 
 ## Создание 2-го кубика
 ### Результат
-Настройки кубика 
+## Настройки кубика 
 
 ![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-2/pic/Screenshot_5.png)
+
+## Результат настройки 
+
 ![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-2/pic/Screenshot_6.png)
