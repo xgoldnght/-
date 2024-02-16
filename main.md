@@ -23,3 +23,19 @@
 ![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-8/pic/Screenshot_3.png)
 ![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-8/pic/Screenshot_4.png)
 ![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-8/pic/Screenshot_5.png)
+
+## Создание "Shop"
+### Результат 
+![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-8/pic/Screenshot_6.png)
+
+## Настройки "Shop"
+### Результат 
+![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-8/pic/Screenshot_7.png)
+
+## Создание новой сцены "Shop"
+### Результат 
+![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-8/pic/Screenshot_8.png)
+![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-8/pic/Screenshot_9.png)
+
+
+
