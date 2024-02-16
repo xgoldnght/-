@@ -16,7 +16,7 @@
 
 ## Все обьекты 
 ### Результат 
-![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-5/pic/Screenshot_5.png)
+![Меню](https://github.com/xgoldnght/Application-development/blob/Lab-4/pic/Screenshot_5.png)
 
 ## Создание текста для игры 
 ### Результат 
